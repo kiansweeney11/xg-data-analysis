@@ -28,3 +28,14 @@ plot_rcpp = data_rcpp %>%
 
 plot_rcpp
 
+## same for expected points
+data_xp = data_select %>%
+  mutate(xP_rolling_5_game_avg = roll_mean(xPLeeds, 5, fill = 0),
+         xPOpp_rolling_5_game_avg = roll_mean(xPOpp, 5, fill = 0))
+
+plot_xp = data_xp %>%
+  ggplot(aes(x = Date)) +
+  geom_line(aes(y = xP_rolling_5_game_avg), colour="blue") +
+  geom_line(aes(y = xPOpp_rolling_5_game_avg), colour="red")
+
+plot_xp
