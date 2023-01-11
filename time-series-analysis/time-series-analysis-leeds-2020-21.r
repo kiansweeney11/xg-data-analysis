@@ -17,9 +17,11 @@ data_select = data %>%
   select(c(1,5,6,7,8,9,10))
 
 # rolling avg
+# use pracma library (pracma) as this doesnt allow for zero values
+# zeros would occur at first 2 and last 2 instances otherwise
 data_rcpp = data_select %>%
-  mutate(xG_rolling_5_game_avg = roll_mean(xG, 5, fill = 0),
-         xGA_rolling_5_game_avg = roll_mean(xGA, 5, fill = 0))
+  mutate(xG_rolling_5_game_avg = movavg(xG, 5, type="s"),
+         xGA_rolling_5_game_avg = movavg(xGA, 5, type="s"))
 
 plot_rcpp = data_rcpp %>%
   ggplot(aes(x = Date)) +
@@ -30,8 +32,8 @@ plot_rcpp
 
 ## same for expected points
 data_xp = data_select %>%
-  mutate(xP_rolling_5_game_avg = roll_mean(xPLeeds, 5, fill = 0),
-         xPOpp_rolling_5_game_avg = roll_mean(xPOpp, 5, fill = 0))
+  mutate(xP_rolling_5_game_avg = movavg(xPLeeds, 5, type="s"),
+         xPOpp_rolling_5_game_avg = movavg(xPOpp, 5, type="s"))
 
 plot_xp = data_xp %>%
   ggplot(aes(x = Date)) +
@@ -39,3 +41,4 @@ plot_xp = data_xp %>%
   geom_line(aes(y = xPOpp_rolling_5_game_avg), colour="red")
 
 plot_xp
+
