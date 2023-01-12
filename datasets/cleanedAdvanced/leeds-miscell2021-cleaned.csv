@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,AerialDuelWon,AerielDuelLost,AerialDuelWon%
 Stuart Dallas,nir NIR,MFDF,29,37.9,7,0,0,40,51,0,82,44,45,0,0,0,256,32,40,44.4
 Luke Ayling,eng ENG,DF,28,37.8,7,0,0,29,54,2,82,36,61,0,1,0,279,65,65,50.0
 Patrick Bamford,eng ENG,FW,26,33.9,3,0,0,36,23,18,3,10,9,3,0,0,59,47,73,39.2

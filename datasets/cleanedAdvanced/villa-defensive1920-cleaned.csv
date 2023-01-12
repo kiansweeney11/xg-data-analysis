@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Jack Grealish,eng ENG,FWMF,23,35.9,29,19,12,12,5,13,34,38.2,21,33,12,21,22,51,22,1
 Tyrone Mings,eng ENG,DF,26,32.2,15,11,11,3,1,10,13,76.9,3,56,48,8,30,45,190,4
 Douglas Luiz,br BRA,MF,21,29.0,46,24,25,17,4,19,65,29.2,46,42,15,27,36,82,54,1

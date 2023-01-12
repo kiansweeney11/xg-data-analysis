@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Aaron Ramsdale,eng ENG,GK,22,38.0,1,1,1,0,0,1,1,100.0,0,0,0,0,2,3,22,6
 George Baldock,gr GRE,DF,27,31.0,47,34,28,14,5,21,50,42.0,29,26,7,19,25,72,70,1
 Chris Basham,eng ENG,DFMF,32,28.6,69,42,41,23,5,41,67,61.2,26,36,15,21,49,118,105,1

@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Lewis Dunk,eng ENG,DF,26,35.0,42,26,31,10,1,17,39,43.6,22,49,38,11,46,88,196,5
 Shane Duffy,ie IRL,DF,26,34.3,35,20,23,7,5,14,25,56.0,11,57,47,10,36,71,244,3
 Mathew Ryan,au AUS,GK,26,34.0,1,0,1,0,0,1,2,50.0,1,0,0,0,0,1,13,1

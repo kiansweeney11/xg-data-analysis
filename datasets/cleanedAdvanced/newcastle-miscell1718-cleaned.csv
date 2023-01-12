@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,AerialDuelWon,AerielDuelLost,AerialDuelWon%
 Jamaal Lascelles,eng ENG,DF,23,32.5,5,0,0,16,12,0,2,28,19,0,0,0,179,128,56,69.6
 Matt Ritchie,sct SCO,MFFW,27,31.2,6,0,0,37,36,3,190,35,32,0,1,0,184,33,81,28.9
 DeAndre Yedlin,us USA,DF,24,31.6,5,0,0,32,26,9,73,44,33,0,0,1,156,47,50,48.5

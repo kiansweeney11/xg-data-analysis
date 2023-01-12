@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,AerialDuelWon,AerielDuelLost,AerialDuelWon%
 Emiliano MartÃ­nez,ar ARG,GK,27,38.0,1,0,0,1,8,0,0,2,3,0,0,0,28,11,2,84.6
 Matt Targett,eng ENG,DF,24,37.8,7,0,0,28,22,0,146,55,39,0,1,0,177,71,50,58.7
 John McGinn,sct SCO,MF,25,37.0,12,0,0,43,77,1,52,43,37,1,0,0,234,21,48,30.4

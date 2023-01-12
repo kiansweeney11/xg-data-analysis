@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Martin DÃºbravka,sk SVK,GK,29,38.0,2,0,2,0,0,1,3,33.3,2,0,0,0,0,2,20,5
 Matt Ritchie,sct SCO,DFMF,28,32.5,70,44,35,27,8,19,47,40.4,28,34,11,23,51,121,76,1
 Ayoze PÃ©rez,es ESP,MFFW,25,32.4,59,22,24,28,7,17,63,27.0,46,55,4,51,42,101,33,1

@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist
+Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,ExpectedPSxG,ExpectedPSxG/SoT,ExpectedPSxG+/-,Expected/90,LaunchedCmp,LaunchedAtt,LaunchedCmp%,PassesAtt,PassesThr,PassesLaunch%,PassesAvgLen,GoalKickAtt,GoalKickLaunch%,GoalKickAvgLen,CrossesOpp,CrossesStp,CrossesStp%,Sweep#OPA,Sweep#OPA/90,SweepAvgDist
 Jonas LÃ¶ssl,dk DEN,GK,29,30.9,54,4,1,6,0,42.1,0.27,-11.9,-0.39,275,631,43.6,880,97,52.3,40.7,223,76.7,55.6,345,24,7.0,29,0.94,13.3
 Ben Hamer,eng ENG,GK,30,6.1,21,3,2,1,1,18.5,0.37,-1.5,-0.25,57,155,36.8,151,12,73.5,48.9,52,84.6,56.3,69,5,7.2,4,0.65,12.8
 Joel Coleman,eng ENG,GK,22,1.0,1,0,0,0,0,0.5,0.18,-0.5,-0.47,7,29,24.1,31,0,74.2,48.3,6,100.0,65.7,12,1,8.3,1,1.00,15.8

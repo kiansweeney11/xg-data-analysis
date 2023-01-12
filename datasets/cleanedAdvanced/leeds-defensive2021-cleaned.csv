@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Stuart Dallas,nir NIR,MFDF,29,37.9,74,45,46,22,6,30,88,34.1,58,41,3,38,44,118,52,1
 Luke Ayling,eng ENG,DF,28,37.8,108,61,69,30,9,49,87,56.3,38,53,36,17,36,144,96,5
 Patrick Bamford,eng ENG,FW,26,33.9,21,9,2,11,8,8,27,29.6,19,14,4,10,10,31,37,0

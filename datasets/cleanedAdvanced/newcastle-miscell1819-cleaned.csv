@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,AerialDuelWon,AerielDuelLost,AerialDuelWon%
 Martin DÃºbravka,sk SVK,GK,29,38.0,1,0,0,0,5,0,0,0,0,0,0,0,38,15,2,88.2
 Matt Ritchie,sct SCO,DFMF,28,32.5,9,0,0,55,38,1,259,51,44,0,0,0,171,32,65,33.0
 Ayoze PÃ©rez,es ESP,MFFW,25,32.4,2,0,0,46,42,9,22,42,22,0,0,0,169,26,78,25.0

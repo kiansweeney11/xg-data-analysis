@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,AerialDuelWon,AerielDuelLost,AerialDuelWon%
 Jack Grealish,eng ENG,FWMF,23,35.9,8,0,0,34,167,4,141,22,19,0,0,0,188,20,26,43.5
 Tyrone Mings,eng ENG,DF,26,32.2,7,0,0,20,11,2,7,30,11,0,1,0,201,67,44,60.4
 Douglas Luiz,br BRA,MF,21,29.0,8,0,0,51,36,0,24,36,24,0,1,0,205,30,35,46.2

@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist
+Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,ExpectedPSxG,ExpectedPSxG/SoT,ExpectedPSxG+/-,Expected/90,LaunchedCmp,LaunchedAtt,LaunchedCmp%,PassesAtt,PassesThr,PassesLaunch%,PassesAvgLen,GoalKickAtt,GoalKickLaunch%,GoalKickAvgLen,CrossesOpp,CrossesStp,CrossesStp%,Sweep#OPA,Sweep#OPA/90,SweepAvgDist
 Illan Meslier,fr FRA,GK,20,35.0,52,8,1,11,2,46.6,0.21,-3.4,-0.10,100,305,32.8,1099,286,19.7,27.4,267,33.3,29.4,447,24,5.4,19,0.54,11.9
 Kiko Casilla,es ESP,GK,33,3.0,2,0,0,0,0,3.2,0.32,+1.2,+0.41,5,14,35.7,67,20,10.4,23.2,31,22.6,24.7,30,4,13.3,1,0.33,10.8
 Squad Total,,,26.1,38.0,54,8,1,11,2,49.9,0.21,-2.1,-0.06,105,319,32.9,1166,306,19.1,27.1,298,32.2,28.9,477,28,5.9,20,0.53,11.8

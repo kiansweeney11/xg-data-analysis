@@ -1,2 +1,2 @@
-Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist
+Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,ExpectedPSxG,ExpectedPSxG/SoT,ExpectedPSxG+/-,Expected/90,LaunchedCmp,LaunchedAtt,LaunchedCmp%,PassesAtt,PassesThr,PassesLaunch%,PassesAvgLen,GoalKickAtt,GoalKickLaunch%,GoalKickAvgLen,CrossesOpp,CrossesStp,CrossesStp%,Sweep#OPA,Sweep#OPA/90,SweepAvgDist
 Jonas LÃ¶ssl,dk DEN,GK,28,38.0,58,4,0,6,1,51.7,0.30,-5.3,-0.14,360,891,40.4,1083,103,59.4,45.2,304,81.6,57.9,493,31,6.3,55,1.45,14.4

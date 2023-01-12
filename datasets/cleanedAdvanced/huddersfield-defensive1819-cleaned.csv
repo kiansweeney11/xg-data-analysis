@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Christopher Schindler,de GER,DF,28,36.2,61,36,46,14,1,27,47,57.4,20,69,34,35,70,131,138,4
 Terence Kongolo,nl NED,DF,24,30.2,74,46,44,26,4,27,47,57.4,20,42,16,26,65,139,106,1
 Jonas LÃ¶ssl,dk DEN,GK,29,30.9,0,0,0,0,0,0,1,0.0,1,1,0,1,2,2,12,2

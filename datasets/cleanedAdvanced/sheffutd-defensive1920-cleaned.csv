@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 George Baldock,gr GRE,DF,26,38.0,62,43,35,17,10,27,47,57.4,20,26,3,23,34,96,83,3
 Enda Stevens,ie IRL,DF,29,37.2,81,46,48,26,7,42,96,43.8,54,27,8,19,35,116,71,3
 Chris Basham,eng ENG,DF,31,36.0,85,48,58,20,7,48,81,59.3,33,38,15,23,77,162,173,1

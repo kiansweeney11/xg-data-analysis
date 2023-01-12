@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist
+Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,ExpectedPSxG,ExpectedPSxG/SoT,ExpectedPSxG+/-,Expected/90,LaunchedCmp,LaunchedAtt,LaunchedCmp%,PassesAtt,PassesThr,PassesLaunch%,PassesAvgLen,GoalKickAtt,GoalKickLaunch%,GoalKickAvgLen,CrossesOpp,CrossesStp,CrossesStp%,Sweep#OPA,Sweep#OPA/90,SweepAvgDist
 Tom Heaton,eng ENG,GK,33,19.9,35,3,1,7,1,28.4,0.26,-5.6,-0.28,112,358,31.3,431,99,52.4,39.5,195,67.7,50.5,379,11,2.9,13,0.65,12.1
 Pepe Reina,es ESP,GK,36,12.0,20,2,0,2,0,14.7,0.22,-5.3,-0.44,95,202,47.0,302,51,48.3,37.2,94,59.6,42.6,168,8,4.8,14,1.17,16.1
 Ãrjan Nyland,no NOR,GK,28,6.0,12,0,0,0,0,8.5,0.31,-3.5,-0.59,33,104,31.7,128,29,46.9,40.0,53,83.0,57.1,80,4,5.0,1,0.17,9.9

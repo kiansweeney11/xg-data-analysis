@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,AerialDuelWon,AerielDuelLost,AerialDuelWon%
 Lewis Dunk,eng ENG,DF,26,35.0,6,1,1,22,14,0,2,46,26,0,0,0,206,119,63,65.4
 Shane Duffy,ie IRL,DF,26,34.3,4,1,0,22,10,4,2,36,20,1,1,0,143,187,68,73.3
 Mathew Ryan,au AUS,GK,26,34.0,2,0,0,1,3,0,0,0,0,0,1,0,25,8,1,88.9

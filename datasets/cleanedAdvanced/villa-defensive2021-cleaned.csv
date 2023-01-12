@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Emiliano MartÃ­nez,ar ARG,GK,27,38.0,3,3,3,0,0,3,4,75.0,1,0,0,0,2,5,10,2
 Matt Targett,eng ENG,DF,24,37.8,83,39,52,20,11,56,88,63.6,32,40,14,26,55,138,102,1
 John McGinn,sct SCO,MF,25,37.0,61,37,23,31,7,27,84,32.1,57,38,6,32,43,104,23,2

@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Age,90s,Tkl,TklWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,VSDribblesTkl,VSDribblesAtt,VSDribblesTkl%,VSDribblesPast,Blocks,ShotBlock,PassBlock,Interceptions,Tkl+Int,Clearances,Errors
 Illan Meslier,fr FRA,GK,21,37.6,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,27,1
 Stuart Dallas,nir NIR,DFMF,30,32.4,93,55,58,31,4,56,105,53.3,49,45,14,31,57,150,63,2
 Raphinha,br BRA,FWMF,24,32.4,51,29,25,14,12,22,71,31.0,49,43,0,43,29,80,28,1
