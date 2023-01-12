@@ -42,3 +42,32 @@ plot_xp = data_xp %>%
 
 plot_xp
 
+### 5 game average xG vs Actual
+
+data_xg_actual = data_rcpp %>%
+  mutate(GF_rolling_5_game_avg = movavg(GF, 5, type="s"),
+         GA_rolling_5_game_avg = movavg(GA, 5, type="s"))
+
+plot_xg_actual = data_xg_actual %>%
+  ggplot(aes(x = Date)) +
+  geom_line(aes(y = GF_rolling_5_game_avg, colour="GF")) +
+  geom_line(aes(y = xG_rolling_5_game_avg, colour="xG")) +
+  ggtitle("5 Point MA Leeds United xG VS GF 2020/21") +
+  scale_color_manual(values = c(GF = "blue", xG = "red"),
+                     labels = c(GF = "Goals Scored", xG = "xG"))
+
+plot_xg_actual
+
+### 5 game average xGA vs Actual conceded
+
+plot_against_xGA = data_xg_actual %>%
+  ggplot(aes(x = Date)) +
+  geom_line(aes(y = GA_rolling_5_game_avg, colour="GA")) +
+  geom_line(aes(y = xGA_rolling_5_game_avg, colour="xGA")) +
+  ggtitle("5 Point MA Leeds United xGA VS GA 2020/21") +
+  scale_color_manual(values = c(GA = "blue", xGA = "red"),
+                     labels = c(GA = "Goals Against", xGA = "xGA"))
+  #theme_classic()
+
+plot_against_xGA
+
