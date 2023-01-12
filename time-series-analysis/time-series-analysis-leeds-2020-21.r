@@ -25,9 +25,12 @@ data_rcpp = data_select %>%
 
 plot_rcpp = data_rcpp %>%
   ggplot(aes(x = Date)) +
-  geom_line(aes(y = xG_rolling_5_game_avg), colour="blue") +
-  geom_line(aes(y = xGA_rolling_5_game_avg), colour="red") +
-  ylab("Goals")
+  geom_line(aes(y = xG_rolling_5_game_avg, colour="xG")) +
+  geom_line(aes(y = xGA_rolling_5_game_avg, colour="xGA")) +
+  ggtitle("5 Point MA Leeds United xG VS xGA 2020/21") +
+  ylab("Goals") +
+  scale_color_manual(values = c(xG = "blue", xGA = "red"),
+                     labels = c(xG = "xG", xGA = "xGA"))
 
 plot_rcpp
 
@@ -38,9 +41,12 @@ data_xp = data_select %>%
 
 plot_xp = data_xp %>%
   ggplot(aes(x = Date)) +
-  geom_line(aes(y = xP_rolling_5_game_avg), colour="blue") +
-  geom_line(aes(y = xPOpp_rolling_5_game_avg), colour="red") +
-  ylab("Points")
+  geom_line(aes(y = xP_rolling_5_game_avg, colour="xP")) +
+  geom_line(aes(y = xPOpp_rolling_5_game_avg, colour="xPOpp")) +   
+  ggtitle("5 Point MA Leeds United xP VS Opponent xP 2020/21") +
+  ylab("Points") +
+  scale_color_manual(values = c(xP = "blue", xPOpp = "red"),
+                     labels = c(xP = "ExpectedPoints", xPOpp = "xPOpp"))
 
 plot_xp
 
