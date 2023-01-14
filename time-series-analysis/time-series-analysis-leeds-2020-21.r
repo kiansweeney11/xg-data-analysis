@@ -8,6 +8,7 @@ library(pracma)
 library(RcppRoll)
 library(lubridate)
 library(readr)
+library(plotly)
 
 ## read data
 data = read_csv("r-data/less-headers.csv")
@@ -70,14 +71,15 @@ plot_xg_actual
 ### 5 game average xGA vs Actual conceded
 
 plot_against_xGA = data_xg_actual %>%
-  ggplot(aes(x = Date)) +
+  ggplot(aes(x = Date, GA = GA_rolling_5_game_avg, xGA = xGA_rolling_5_game_avg)) +
   geom_line(aes(y = GA_rolling_5_game_avg, colour="GA")) +
   geom_line(aes(y = xGA_rolling_5_game_avg, colour="xGA")) +
   ggtitle("5 Point MA Leeds United xGA VS GA 2020/21") +
-  ylab("Goals") +
+  ylab("Goals") + 
   scale_color_manual(values = c(GA = "blue", xGA = "red"),
                      labels = c(GA = "Goals Against", xGA = "xGA"))
   #theme_classic()
+ggplotly(plot_against_xGA, tooltip = c("GA", "xGA"))
 
-plot_against_xGA
+#plot_against_xGA
 
