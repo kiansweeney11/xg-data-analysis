@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,ExpectedPSxG,ExpectedPSxG/SoT,ExpectedPSxG+/-,Expected/90,LaunchedCmp,LaunchedAtt,LaunchedCmp%,PassesAtt,PassesThr,PassesLaunch%,PassesAvgLen,GoalKickAtt,GoalKickLaunch%,GoalKickAvgLen,CrossesOpp,CrossesStp,CrossesStp%,Sweep#OPA,Sweep#OPA/90,SweepAvgDist
+Rui PatrÃ­cio,pt POR,GK,30,37.0,46,3,1,6,4,39.3,0.27,-2.7,-0.07,213,541,39.4,579,103,52.8,39.1,284,82.7,50.5,493,14,2.8,18,0.49,12.1
+John Ruddy,eng ENG,GK,31,1.0,0,0,0,0,0,0.1,0.05,+0.1,+0.14,5,11,45.5,14,2,35.7,37.9,7,85.7,49.7,15,1,6.7,0,0.00,11.0
+Will Norris,eng ENG,GK,24,0.0,0,0,0,0,0,0.0,,0.0,0.00,0,0,,0,0,,,0,,,0,0,,0,0.00,
+Squad Total,,,26.1,38.0,46,3,1,6,4,39.4,0.26,-2.6,-0.07,218,552,39.5,593,105,52.4,39.1,291,82.8,50.5,508,15,3.0,18,0.47,12.1
