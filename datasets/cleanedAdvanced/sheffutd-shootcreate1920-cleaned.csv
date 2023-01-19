@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def
+Player,Nation,Pos,Age,90s,SCA,SCA90,SCAPassLive,SCAPassDead,SCADrib,SCASh,SCAFld,SCADef,GCA,GCA90,GCAPassLive,GCAPassDead,GCADrib,GCASh,GCAFld,GCADef
 George Baldock,gr GRE,DF,26,38.0,71,1.87,54,5,6,0,6,0,6,0.16,4,0,1,0,1,0
 Enda Stevens,ie IRL,DF,29,37.2,76,2.04,62,5,5,2,2,0,9,0.24,8,0,1,0,0,0
 Chris Basham,eng ENG,DF,31,36.0,27,0.75,24,1,2,0,0,0,3,0.08,3,0,0,0,0,0

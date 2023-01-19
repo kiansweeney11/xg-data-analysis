@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def
+Player,Nation,Pos,Age,90s,SCA,SCA90,SCAPassLive,SCAPassDead,SCADrib,SCASh,SCAFld,SCADef,GCA,GCA90,GCAPassLive,GCAPassDead,GCADrib,GCASh,GCAFld,GCADef
 Emiliano MartÃ­nez,ar ARG,GK,27,38.0,5,0.13,5,0,0,0,0,0,1,0.03,1,0,0,0,0,0
 Matt Targett,eng ENG,DF,24,37.8,82,2.17,58,19,0,0,3,2,9,0.24,6,2,0,0,1,0
 John McGinn,sct SCO,MF,25,37.0,123,3.32,101,4,8,2,7,1,15,0.41,10,1,2,1,1,0

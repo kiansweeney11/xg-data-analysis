@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def
+Player,Nation,Pos,Age,90s,SCA,SCA90,SCAPassLive,SCAPassDead,SCADrib,SCASh,SCAFld,SCADef,GCA,GCA90,GCAPassLive,GCAPassDead,GCADrib,GCASh,GCAFld,GCADef
 Stuart Dallas,nir NIR,MFDF,29,37.9,89,2.35,75,3,4,4,1,2,7,0.18,7,0,0,0,0,0
 Luke Ayling,eng ENG,DF,28,37.8,52,1.38,43,2,3,1,3,0,4,0.11,4,0,0,0,0,0
 Patrick Bamford,eng ENG,FW,26,33.9,65,1.92,46,0,5,10,4,0,16,0.47,9,0,2,2,3,0

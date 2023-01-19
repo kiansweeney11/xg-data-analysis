@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def
+Player,Nation,Pos,Age,90s,SCA,SCA90,SCAPassLive,SCAPassDead,SCADrib,SCASh,SCAFld,SCADef,GCA,GCA90,GCAPassLive,GCAPassDead,GCADrib,GCASh,GCAFld,GCADef
 Lewis Dunk,eng ENG,DF,26,35.0,21,0.60,20,0,0,0,1,0,2,0.06,2,0,0,0,0,0
 Shane Duffy,ie IRL,DF,26,34.3,23,0.67,18,1,0,2,2,0,3,0.09,2,0,0,0,1,0
 Mathew Ryan,au AUS,GK,26,34.0,3,0.09,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0

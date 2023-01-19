@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def
+Player,Nation,Pos,Age,90s,SCA,SCA90,SCAPassLive,SCAPassDead,SCADrib,SCASh,SCAFld,SCADef,GCA,GCA90,GCAPassLive,GCAPassDead,GCADrib,GCASh,GCAFld,GCADef
 Martin DÃºbravka,sk SVK,GK,29,38.0,5,0.13,4,1,0,0,0,0,1,0.03,1,0,0,0,0,0
 Matt Ritchie,sct SCO,DFMF,28,32.5,109,3.35,61,33,5,5,4,1,12,0.37,6,3,2,1,0,0
 Ayoze PÃ©rez,es ESP,MFFW,25,32.4,91,2.81,70,0,6,7,5,3,6,0.19,5,0,1,0,0,0
