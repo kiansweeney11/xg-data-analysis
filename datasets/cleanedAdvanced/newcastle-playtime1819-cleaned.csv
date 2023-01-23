@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Min/Start,Compl,Subs,Min/Sub,unSub,PPM,onG,onGA,Goals+/-,Goals+/-90,TeamSuccessOn-Off,onxG,onxGA,xG+/-,xG+/-90,xG-On-Off
 Martin DÃºbravka,sk SVK,GK,29,38,3420,90,100.0,38.0,38,90,38,0,,0,1.18,42,48,-6,-0.16,,39.1,53.6,-14.5,-0.38,
 Matt Ritchie,sct SCO,DFMF,28,36,2928,81,85.6,32.5,35,83,21,1,9,0,1.22,35,40,-5,-0.15,+0.03,31.9,44.1,-12.2,-0.38,+0.03
 Ayoze PÃ©rez,es ESP,MFFW,25,37,2917,79,85.3,32.4,34,83,19,3,29,1,1.22,40,35,+5,+0.15,+2.12,34.8,41.6,-6.8,-0.21,+1.16

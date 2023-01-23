@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Min/Start,Compl,Subs,Min/Sub,unSub,PPM,onG,onGA,Goals+/-,Goals+/-90,TeamSuccessOn-Off,onxG,onxGA,xG+/-,xG+/-90,xG-On-Off
 Aaron Ramsdale,eng ENG,GK,22,38,3420,90,100.0,38.0,38,90,38,0,,0,0.61,20,63,-43,-1.13,,32.6,62.2,-29.6,-0.78,
 George Baldock,gr GRE,DF,27,32,2787,87,81.5,31.0,32,87,30,0,,3,0.63,14,51,-37,-1.19,-0.34,25.1,53.5,-28.4,-0.92,-0.75
 Chris Basham,eng ENG,DFMF,32,31,2576,83,75.3,28.6,31,83,21,0,,0,0.55,14,51,-37,-1.29,-0.65,23.7,44.9,-21.2,-0.74,+0.16

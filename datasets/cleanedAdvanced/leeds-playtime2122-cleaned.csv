@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Min/Start,Compl,Subs,Min/Sub,unSub,PPM,onG,onGA,Goals+/-,Goals+/-90,TeamSuccessOn-Off,onxG,onxGA,xG+/-,xG+/-90,xG-On-Off
 Illan Meslier,fr FRA,GK,21,38,3384,89,98.9,37.6,38,89,37,0,,0,1.00,39,79,-40,-1.06,-8.56,48.8,72.9,-24.1,-0.64,-4.03
 Stuart Dallas,nir NIR,DFMF,30,34,2919,86,85.4,32.4,34,86,31,0,,0,1.00,38,66,-28,-0.86,+0.75,44.6,61.1,-16.5,-0.51,+0.62
 Raphinha,br BRA,FWMF,24,35,2915,83,85.2,32.4,34,84,26,1,45,0,1.00,34,68,-34,-1.05,-0.52,42.6,62.4,-19.8,-0.61,-0.08

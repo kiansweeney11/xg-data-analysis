@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Min/Start,Compl,Subs,Min/Sub,unSub,PPM,onG,onGA,Goals+/-,Goals+/-90,TeamSuccessOn-Off,onxG,onxGA,xG+/-,xG+/-90,xG-On-Off
 Lewis Dunk,eng ENG,DF,26,36,3151,88,92.1,35.0,36,88,34,0,,0,0.97,31,55,-24,-0.69,-0.35,32.0,55.2,-23.2,-0.66,-0.45
 Shane Duffy,ie IRL,DF,26,35,3087,88,90.3,34.3,35,88,34,0,,0,1.03,32,54,-22,-0.64,+0.17,32.7,54.1,-21.4,-0.62,+0.03
 Mathew Ryan,au AUS,GK,26,34,3060,90,89.5,34.0,34,90,34,0,,0,0.94,31,55,-24,-0.71,-0.46,32.4,53.2,-20.9,-0.61,+0.13

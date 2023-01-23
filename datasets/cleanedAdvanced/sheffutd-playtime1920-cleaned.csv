@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Min/Start,Compl,Subs,Min/Sub,unSub,PPM,onG,onGA,Goals+/-,Goals+/-90,TeamSuccessOn-Off,onxG,onxGA,xG+/-,xG+/-90,xG-On-Off
 George Baldock,gr GRE,DF,26,38,3420,90,100.0,38.0,38,90,38,0,,0,1.42,39,39,0,0.00,,43.0,51.0,-7.9,-0.21,
 Enda Stevens,ie IRL,DF,29,38,3345,88,97.8,37.2,38,88,36,0,,0,1.42,39,39,0,0.00,0.00,41.7,48.7,-7.0,-0.19,+0.89
 Chris Basham,eng ENG,DF,31,38,3242,85,94.8,36.0,38,85,25,0,,0,1.42,33,37,-4,-0.11,-2.13,39.1,47.2,-8.1,-0.22,-0.29

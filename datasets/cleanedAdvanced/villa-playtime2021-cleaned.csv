@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Min/Start,Compl,Subs,Min/Sub,unSub,PPM,onG,onGA,Goals+/-,Goals+/-90,TeamSuccessOn-Off,onxG,onxGA,xG+/-,xG+/-90,xG-On-Off
 Emiliano MartÃ­nez,ar ARG,GK,27,38,3420,90,100.0,38.0,38,90,38,0,,0,1.45,55,46,+9,+0.24,,52.5,51.1,+1.4,+0.04,
 Matt Targett,eng ENG,DF,24,38,3404,90,99.5,37.8,38,90,37,0,,0,1.45,55,44,+11,+0.29,+11.54,52.4,50.3,+2.2,+0.06,+4.15
 John McGinn,sct SCO,MF,25,37,3330,90,97.4,37.0,37,90,37,0,,0,1.41,53,46,+7,+0.19,-1.81,50.3,50.6,-0.4,-0.01,-1.80

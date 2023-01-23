@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Min/Start,Compl,Subs,Min/Sub,unSub,PPM,onG,onGA,Goals+/-,Goals+/-90,TeamSuccessOn-Off,onxG,onxGA,xG+/-,xG+/-90,xG-On-Off
 Christopher Schindler,de GER,DF,28,37,3260,88,95.3,36.2,37,88,35,0,,0,0.43,19,71,-52,-1.44,-0.31,27.6,57.7,-30.1,-0.83,+0.29
 Terence Kongolo,nl NED,DF,24,32,2716,85,79.4,30.2,32,85,26,0,,2,0.44,20,65,-45,-1.49,-0.34,23.0,50.2,-27.2,-0.90,-0.26
 Jonas LÃ¶ssl,dk DEN,GK,29,31,2778,90,81.2,30.9,30,90,30,1,77,3,0.48,18,54,-36,-1.17,+1.36,22.0,44.1,-22.1,-0.72,+0.69
