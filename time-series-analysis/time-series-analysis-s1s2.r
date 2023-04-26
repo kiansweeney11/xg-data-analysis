@@ -60,7 +60,8 @@ data_select = data_xg_actual_s1 %>%
 data_select_s2 = data_xg_actual_s2 %>%
   select(c(1,8,9,10,11,12,13,14))
 
-
+#data_select$GoalsDiff <- (data_select$GF_rolling_5_game_avg - data_select$xG_rolling_5_game_avg)
+#data_select
 ######
 
 # rolling avg
@@ -71,12 +72,12 @@ data_select_s2 = data_xg_actual_s2 %>%
 
 plot_against_xG = data_select %>%
   ggplot(aes(x = Date, GF = GF_rolling_5_game_avg, xG = xG_rolling_5_game_avg)) +
-  geom_line(aes(y = GF_rolling_5_game_avg, colour="xP")) +
-  geom_line(aes(y = xG_rolling_5_game_avg, colour="xPopp")) +
+  geom_line(aes(y = GF_rolling_5_game_avg, colour="GF")) +
+  geom_line(aes(y = xG_rolling_5_game_avg, colour="xG")) +
   ggtitle("Season 1") +
-  ylab("Points") + 
+  ylab("Goals") +
   scale_color_manual(values = c(GF = "blue", xG = "red"),
-                     labels = c(GF = "Green", xG = "Blue"))
+                     labels = c(GF = "GF", xG = "xG"))
 
 plt11 <- ggplotly(plot_against_xG, tooltip = c("x", "GF", "xG"))
 
@@ -89,7 +90,7 @@ plot_against_xG_s2 = data_select_s2 %>%
   ggtitle("Season 2") +
   ylab("Goals") + 
   scale_color_manual(values = c(GF = "blue", xG = "red"),
-                     labels = c(GF = "Goals", xG = "xG"))
+                     labels = c(GF = "GF", xG = "xG"))
 
 plt22 <- ggplotly(plot_against_xG_s2, tooltip = c("x", "GF", "xG"))
 
