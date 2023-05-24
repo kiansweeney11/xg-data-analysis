@@ -1,4 +1,4 @@
-Date,Round,Result,Venue,GF,GA,xG,xGA,xPLeeds,xPOpp,ActualPoints
+Date,Round,Result,Venue,GF,GA,xG,xGA,xPTeam,xPOpp,ActualPoints
 2018-08-11,Matchweek 1,D,Home,2,2,1.0,1.0,1.345742463117789,1.345742463117789,1
 2018-08-18,Matchweek 2,L,Away,0,2,1.1,0.2,2.12728327485283,0.5368412947566462,0
 2018-08-25,Matchweek 3,D,Home,1,1,1.0,1.6,0.9596866427062956,1.7901751411155713,1

@@ -1,4 +1,4 @@
-Date,Round,Result,Venue,GF,GA,xG,xGA,xPLeeds,xPOpp,ActualPoints
+Date,Round,Result,Venue,GF,GA,xG,xGA,xPTeam,xPOpp,ActualPoints
 2021-08-14,Matchweek 1,L,Away,1,5,0.6,2.5,0.34886963513772956,2.5051022952073527,0
 2021-08-21,Matchweek 2,D,Home,2,2,1.4,2.0,1.0223607503602339,1.7603047021127043,1
 2021-08-29,Matchweek 3,D,Away,1,1,1.6,1.1,1.7174954644334957,1.033450146389525,1

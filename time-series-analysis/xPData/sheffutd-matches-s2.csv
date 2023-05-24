@@ -1,4 +1,4 @@
-Date,Round,Result,Venue,GF,GA,xG,xGA,xPLeeds,xPOpp,ActualPoints
+Date,Round,Result,Venue,GF,GA,xG,xGA,xPTeam,xPOpp,ActualPoints
 2020-09-14,Matchweek 1,L,Home,0,2,1.0,1.4,1.0761361281363386,1.654081744259043,0
 2020-09-21,Matchweek 2,L,Away,0,1,0.9,1.0,1.260973949068917,1.4213478016764518,0
 2020-09-27,Matchweek 3,L,Home,0,1,1.4,1.2,1.5091104829037236,1.2284831792268514,0
